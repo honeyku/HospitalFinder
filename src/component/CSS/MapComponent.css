@@ -1,0 +1,17 @@
+.map{
+    margin-top: 7rem;
+    width: 1000px;
+    height: 600px;
+}
+
+.logOut{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+/* .heading{
+    margin-top: 5rem;
+} */
